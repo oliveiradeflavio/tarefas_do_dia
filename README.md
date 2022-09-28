@@ -28,10 +28,10 @@ Aplicativo irá cadastrar as tarefas do dia. Sistema contém uma página de logi
 login: flávio<br>
 senha: 123
 
-![Login](https://github.com/oliveiradeflavio/tarefas_do_dia/blob/main/screen/login.png)
-![Tarefas](https://github.com/oliveiradeflavio/tarefas_do_dia/blob/main/screen/tarefas.png)
-![Tarefas2](https://github.com/oliveiradeflavio/tarefas_do_dia/blob/main/screen/tarefas2.png)
-![Mobile](https://github.com/oliveiradeflavio/tarefas_do_dia/blob/main/screen/versaomobile.png)
+![Login](https://github.com/oliveiradeflavio/tarefas_do_dia/blob/main/screenshot/login.png)
+![Tarefas](https://github.com/oliveiradeflavio/tarefas_do_dia/blob/main/scrscreenshoteen/tarefas.png)
+![Tarefas2](https://github.com/oliveiradeflavio/tarefas_do_dia/blob/main/screenshot/tarefas2.png)
+![Mobile](https://github.com/oliveiradeflavio/tarefas_do_dia/blob/main/screenshot/versaomobile.png)
 
 
 <!-- CONTACT -->
@@ -47,4 +47,4 @@ Link do Projeto: [https://github.com/oliveiradeflavio/tarefas_do_dia](https://gi
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://www.linkedin.com/in/fladoliveira/
-[product-screenshot]: https://raw.githubusercontent.com/oliveiradeflavio/tarefas_do_dia/main/screen/login.png
+[product-screenshot]: https://raw.githubusercontent.com/oliveiradeflavio/tarefas_do_dia/main/screenshot/login.png
