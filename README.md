@@ -29,7 +29,7 @@ login: flávio<br>
 senha: 123
 
 ![Login](https://github.com/oliveiradeflavio/tarefas_do_dia/blob/main/screenshot/login.png)
-![Tarefas](https://github.com/oliveiradeflavio/tarefas_do_dia/blob/main/scrscreenshoteen/tarefas.png)
+![Tarefas](https://github.com/oliveiradeflavio/tarefas_do_dia/blob/main/screenshot/tarefas.png)
 ![Tarefas2](https://github.com/oliveiradeflavio/tarefas_do_dia/blob/main/screenshot/tarefas2.png)
 ![Mobile](https://github.com/oliveiradeflavio/tarefas_do_dia/blob/main/screenshot/versaomobile.png)
 
